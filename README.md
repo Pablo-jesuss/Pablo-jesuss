@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-jesus-a64433263/)
 
-![pablo-jesus GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-jesuss&show_icons=true&theme=transparent)
+
 
 
 
@@ -21,6 +21,6 @@ Apaixonado por tecnologia.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
+![pablo-jesus GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-jesuss&show_icons=true&theme=transparent)
 
 
